@@ -9,5 +9,8 @@ const styles = {
         marginLeft: -12,
         marginRight: 20,
     },
+    menuSectionButton: {
+        color: 'white',
+    }
 };
 export default styles;
