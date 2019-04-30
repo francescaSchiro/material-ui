@@ -11,6 +11,15 @@ const styles = {
     },
     menuSectionButton: {
         color: 'white',
-    }
+        label: 'white',
+        fontSize: '13px',
+        fontFamily: 'Roboto',
+        fontWeight: 'bold',
+        letterSpacing: '.5px',
+        textTransform: 'uppercase',
+    },
+    toolBar: {
+        backgroundColor: '#004c18',
+    },
 };
 export default styles;
